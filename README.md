@@ -9,7 +9,7 @@
 
 ## Création d'une Task liste
 
-- créationn des différentes routes
+- création des différentes routes
 - création des différentes opérations crud
 
 ## lancement du projet
