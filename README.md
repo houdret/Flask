@@ -82,7 +82,7 @@
 - création d' un formulaire dans une class "card" 
 - création de 2 bouton pour "suppression" de la task et le "done"
   
-## utilisation de sqlite3 création de la base de donné "tasts.db
+## utilisation de sqlite3 création de la base de donné "tasks.db
   
 - qui est par défault avec "Pycharm" 
   
